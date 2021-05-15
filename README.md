@@ -6,5 +6,5 @@ The combinations considered for FEA were:
 <li>Screw and Wire</li>
 <li>Wire and Wire</li>
 </ul
-<br>
-![Image of Yaktocat](https://github.com/srivastav-ayush/hyperelastic-spherical-actuator/blob/main/FEM%20Simulation.jpg)
+
+![Image of Yaktocat](https://github.com/srivastav-ayush/scaphoid-analysis/blob/main/Images/Total%20Deformation%20-%20Y.jpg)
