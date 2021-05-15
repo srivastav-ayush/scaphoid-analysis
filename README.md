@@ -5,5 +5,5 @@ The combinations considered for FEA were:
 <li>Single screw</li>
 <li>Screw and Wire</li>
 <li>Wire and Wire</li>
-</ul.
- 
+</ul
+<br>
