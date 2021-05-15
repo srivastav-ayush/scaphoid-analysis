@@ -7,3 +7,4 @@ The combinations considered for FEA were:
 <li>Wire and Wire</li>
 </ul
 <br>
+![Image of Yaktocat](https://github.com/srivastav-ayush/hyperelastic-spherical-actuator/blob/main/FEM%20Simulation.jpg)
