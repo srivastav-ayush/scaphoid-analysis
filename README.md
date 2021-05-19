@@ -7,4 +7,4 @@ The combinations considered for FEA were:
 <li>Wire and Wire</li>
 </ul
 
-![Image of Yaktocat](https://github.com/srivastav-ayush/scaphoid-analysis/blob/main/Images/Total%20Deformation%20-%20Y.jpg)
+![FEA Results](https://github.com/srivastav-ayush/scaphoid-analysis/blob/main/Images/Total%20Deformation%20-%20Y.jpg)
