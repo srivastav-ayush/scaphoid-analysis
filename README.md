@@ -12,6 +12,6 @@ Scaphoid fractures are the most common carpal bone fractures, often occurring af
 <br><br>
 
 ## Poster Presentation - SES 2021 (2 mins)
-4th Carnegie Mellon Forum on Biomedical Engineering at Carnegie Mellon University, Pennsylvania, USA: Ayush Srivastav, John Santoshi, Prateek Behera and Ravi Dwivedi “Post-surgery stability of Scaphoid fractures under different fixation configurations: A Finite Element Analysis” (Virtual Presentation)<br/>
+SES Annual Conference 2021 at University of Illinois at Urbana-Champaign, Illinois, USA: Ayush Srivastav, John Santoshi, Prateek Behera and Ravi Dwivedi “Post-surgery stability of Scaphoid fractures under different fixation configurations: A Finite Element Analysis” (Virtual Presentation)<br/>
 <br/>
-[![Watch the video](https://img.youtube.com/vi/VIp6bbmiNx4/hqdefault.jpg)](https://youtu.be/VIp6bbmiNx4)
+[![Watch the video](https://img.youtube.com/vi/qJVUCn6CQI0/hqdefault.jpg)](https://youtu.be/qJVUCn6CQI0)
